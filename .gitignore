@@ -1,0 +1,8 @@
+#exclude all common image files
+*.jpeg
+*.jpg
+*.png
+*.gif
+*.svg
+*.ico
+*.webp
